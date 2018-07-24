@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 .main {
-	margin-top: 40px;
+	margin-top: 30px;
 	margin-right: 75px;
 	margin-left: 75px;
 	width: 876px;
@@ -76,8 +76,9 @@ h1, h2, h3, h4, h5 {
 	text-decoration: none;
 	color: rgb(168, 168, 168);
 	display: inline-block;
-	width: 120px;
+	width: 110px;
 	font-size: 14px;
+	margin-top: 10px;
 }
 
 .logo {
@@ -96,6 +97,9 @@ h1, h2, h3, h4, h5 {
 h1 {
 	font-size: 75px;
 	display: inline-block;
+	width: 379px;
+	height: 379px;
+	margin: auto;
 }
 
 .snippet {
